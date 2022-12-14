@@ -1,0 +1,5 @@
+project:
+  name: INFO Technical Decision Log
+  tz: Europe/Amsterdam
+  adrFolder: ./docs/adr
+  packages: []
