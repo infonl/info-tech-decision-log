@@ -1,4 +1,4 @@
-# Prefer Serverless Framework developing and deploying serverless applications
+# Prefer Serverless Framework for developing and deploying serverless applications
 
 - Status: accepted 
 - Deciders: bas@info,nl, abe@info.nl, dominik@info.nl, ramses@info.nl, edgar@info.nl 
